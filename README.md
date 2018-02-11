@@ -10,8 +10,11 @@
 ### 效果图：
 
 ![WEEXdemo.gif](http://upload-images.jianshu.io/upload_images/3888312-5f4a29367f6eb083.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+<br>
 ### 运行：
+<br>
 npm run dev
+<br>
 npm run serve
+<br>
 http://localhost:1337/#/top
