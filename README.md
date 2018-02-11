@@ -9,4 +9,4 @@
 ##### 购物车：展示加入购物车数量。
 ### 效果图：
 
-![WEEXdemo.gif](http://upload-images.jianshu.io/upload_images/3888312-5e7965a6d646f3f3.gif?imageMogr2/auto-orient/strip)
+![WEEXdemo.gif](http://upload-images.jianshu.io/upload_images/3888312-5e7965a6d646f3f3.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/377)
